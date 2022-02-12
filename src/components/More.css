@@ -1,0 +1,13 @@
+.more-wrapper{
+    padding: 0 2.5% 5% 2.5%;
+    font-size: 120%;
+    background-color: #e1dfdb;
+}
+
+.more-wrapper a{
+    color: black;
+}
+
+.more-wrapper h1{
+    padding: 4% 5%;
+}

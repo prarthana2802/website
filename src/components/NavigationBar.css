@@ -1,0 +1,9 @@
+.navbar{
+    font-weight: 450;
+}
+
+.navbar-brand{
+    font-size: 150%;
+    font-family: 'Playfair Display', serif;
+    font-weight: 1000;
+}

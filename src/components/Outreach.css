@@ -1,0 +1,27 @@
+.yfd{
+    background-color: #e1dfdb;
+}
+
+
+
+
+.yfd h1{
+    padding: 7.5% 4% 2% 4%;
+}
+
+.yfd a{
+    padding: 1% 4%;
+    color: black;
+    font-size: 110%;
+}
+.carousel-wrapper{
+    text-align: center;
+    padding: 2% 2% 4% 2%;
+    font-weight: bold;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon{
+    filter: invert(100%);
+    background-color: black;
+    border-radius: 2rem;
+}
